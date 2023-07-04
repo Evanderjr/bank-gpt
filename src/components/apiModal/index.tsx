@@ -102,7 +102,7 @@ function APIModal(props: { setApiKey: any; sidebar?: boolean }) {
                 lineHeight="28px"
                 mb="22px"
               >
-                You need an OpenAI API Key to use Horizon AI Template's
+                You need an OpenAI API Key to use Horizon AI Templates
                 features. Your API Key is stored locally on your browser and
                 never sent anywhere else.
               </Text>
@@ -206,7 +206,7 @@ function APIModal(props: { setApiKey: any; sidebar?: boolean }) {
                         >
                           OpenAI account
                         </Link>{' '}
-                        and a valid API key to use ChatGPT. We don't sell API
+                        and a valid API key to use ChatGPT. We dont sell API
                         keys.
                       </ListItem>
                       <ListItem
